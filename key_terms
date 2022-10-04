@@ -4,3 +4,8 @@ run
 exec
 inspect
 sh -c
+build
+definition file: set of instructions telling Singularity what software to install in the container
+sand box
+writable option
+
