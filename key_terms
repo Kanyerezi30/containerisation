@@ -8,4 +8,4 @@ build
 definition file: set of instructions telling Singularity what software to install in the container
 sand box
 writable option
-
+Bootstrap: determines the bootstrap agent that will be used to create the base operating system
